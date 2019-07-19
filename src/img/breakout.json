@@ -1,0 +1,100 @@
+{"frames": [
+{
+	"filename": "ball.png",
+	"frame": {"x":40,"y":32,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "paddle.png",
+	"frame": {"x":-10,"y":48,"w":48,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":16},
+	"sourceSize": {"w":48,"h":16}
+},
+{
+	"filename": "brick_blue.png",
+	"frame": {"x":32,"y":0,"w":32,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":16},
+	"sourceSize": {"w":32,"h":16}
+},
+{
+	"filename": "brick_red.png",
+	"frame": {"x":0,"y":0,"w":32,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":16},
+	"sourceSize": {"w":32,"h":16}
+},
+{
+	"filename": "brick_green.png",
+	"frame": {"x":0,"y":16,"w":32,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":16},
+	"sourceSize": {"w":32,"h":16}
+},
+{
+	"filename": "brick_yellow.png",
+	"frame": {"x":32,"y":16,"w":32,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":16},
+	"sourceSize": {"w":32,"h":16}
+},
+{
+	"filename": "brick_purple.png",
+	"frame": {"x":0,"y":32,"w":32,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":16},
+	"sourceSize": {"w":32,"h":16}
+},
+
+{
+	"filename": "power_down.png",
+	"frame": {"x":200,"y":2,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "power_up.png",
+	"frame": {"x":182,"y":38,"w":16,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":16},
+	"sourceSize": {"w":16,"h":16}
+},
+{
+	"filename": "three.png",
+	"frame": {"x":34,"y":2,"w":30,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":30,"h":48},
+	"sourceSize": {"w":32,"h":48}
+},
+{
+	"filename": "two.png",
+	"frame": {"x":2,"y":2,"w":30,"h":48},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":16,"w":30,"h":48},
+	"sourceSize": {"w":32,"h":64}
+}],
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "breakout.png",
+	"format": "RGBA8888",
+	"size": {"w":302,"h":64},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c510ff2f709e8d175b059cd1cbe64773$"
+}
+}
